@@ -1,4 +1,4 @@
-# Learning Git and Github!
+# Learning Git and GitHub!
 ## This is Heading level 2 using hashtag
 **bold**
 
